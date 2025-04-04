@@ -5,6 +5,7 @@ Bem-vindo ao repositório da API de integração entre Dremio e Grafana, projeta
 Objetivo
 Esta API foi criada para:
 
-Conectar o Dremio ao Grafana de forma simplificada.
-Permitir consultas SQL no Dremio e exibir os resultados em dashboards do Grafana.
+- Conectar o Dremio ao Grafana de forma simplificada.
+- Permitir consultas SQL no Dremio e exibir os resultados em dashboards do Grafana.
+- Monitoramento e controle de pausas.
 
