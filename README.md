@@ -9,6 +9,10 @@ Esta API foi criada para:
 - Permitir consultas SQL no Dremio e exibir os resultados em dashboards do Grafana.
 - Monitoramento e controle de pausas.
 
+Estrutura do Projeto
+
+
+
 Pré-requisitos
 Antes de começar, certifique-se de ter instalado:
 
