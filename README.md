@@ -1,2 +1,2 @@
 # apiDremio
-API criada para conectar o Dremio ao Grafana.
+API de Integração Dremio com Grafana via Docker
