@@ -9,3 +9,9 @@ Esta API foi criada para:
 - Permitir consultas SQL no Dremio e exibir os resultados em dashboards do Grafana.
 - Monitoramento e controle de pausas.
 
+Pré-requisitos
+Antes de começar, certifique-se de ter instalado:
+
+- Docker (versão 20.10 ou superior)
+- Docker Compose (versão 1.29 ou superior)
+- Conhecimento básico de SQL e configuração de dashboards no Grafana.
