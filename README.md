@@ -11,7 +11,22 @@ Esta API foi criada para:
 
 Estrutura do Projeto
 
-
+apiDremio/
+├── config/                # Configurações da aplicação
+│   └── index.js           # Arquivo principal de configuração
+├── routes/                # Definição das rotas da API
+│   ├── health.js          # Rota para verificar a saúde da API 
+│   ├── query.js           # Rota para executar consultas
+│   ├── testConnection.js  # Rota para testar a conexão 
+│   └── testQuery.js       # Rota para testar consultas 
+├── services/              # Lógica de negócios e serviços
+│   ├── dremio.js          # Serviço para interação com o Dremio 
+│   └── port.js            # Serviço relacionado a portas ou conexões 
+├── .env                   # Variáveis de ambiente 
+├── README.md              # Documentação do projeto 
+├── docker-compose.yml     # Configuração do Docker Compose 
+├── Dockerfile             # Definição da imagem Docker da API
+└── server.js              # Arquivo principal da aplicação
 
 Pré-requisitos
 Antes de começar, certifique-se de ter instalado:
